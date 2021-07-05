@@ -1,0 +1,14 @@
+1. Character set (biasa disingkat sebagai charset) adalah kumpulan karakter yang bisa dipahami oleh komputer
+
+2. Database memiliki istilah lain yaitu Schema.
+
+3. Query menampilkan character set : 'SHOW CHARACTER SET;'
+
+4. Query melihat collation yang terdapat di MySQL : 'SHOW COLLATION;'
+
+5. 5 Tipe data numeric di MySQL : INT, BIGINT, TINYINT, SMALLINT, MEDIUMINT
+
+6. 5 Tipe data string di MySQL : CHAR, VARCHAR, TiNYTEXT, TEXT, MEDIUMTEXT
+
+7. 3 Tipe data date di MySQL : DATE, TIME, DATETIME
+
